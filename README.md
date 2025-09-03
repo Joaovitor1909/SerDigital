@@ -8,7 +8,7 @@
 Website responsivo desenvolvido com **HTML5** e **CSS3**, com foco em **boas práticas de front-end**, **responsividade**, **acessibilidade** e **design moderno**.  
 Projeto inspirado em um layout do designer [Matheus Dias](https://www.figma.com/@matheusdias20).
 
-🔗 **[Acesse o site online aqui](https://github.com/Joaovitor1909/SerDigital)**  
+🔗 **[Acesse o site online aqui](https://joaovitor1909.github.io/SerDigital/)**  
 
 ---
 
